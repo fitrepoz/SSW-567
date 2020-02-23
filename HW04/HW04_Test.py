@@ -4,8 +4,7 @@ from HW04 import view_repos
 
 class TestHW(unittest.TestCase):
 
-
-    def testAPI2(self):
+    def test_github_api(self):
         self.assertEqual(view_repos('fitrepoz'),['Repo:810A Number of commits: 1',
         'Repo:http---code.google.com-p-sharpdx- Number of commits: 2', 
         'Repo:projectxenie Number of commits: 3', 

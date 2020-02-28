@@ -1,1 +1,1 @@
-[![build status of master](https://api-travis-ci.org/fitrepoz/HW04.svg?branch=master)](https://travis-ci.org/fitrepoz/HW04)
+[![build status of master](https://travis-ci.org/fitrepoz/SSW-567.svg?branch=master)](https://travis-ci.org/fitrepoz/SSW-567)
